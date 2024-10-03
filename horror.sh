@@ -1,5 +1,6 @@
 clear
 sleep 1
+cowsay -f eye "HEAR THE MANKIND POWER IS NOT TO BE ABOUSED."
 figlet -f shadow "HORROR-STORY" | lolcat
 echo
 echo "1. 666" | lolcat
